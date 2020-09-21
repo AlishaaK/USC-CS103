@@ -1,10 +1,3 @@
-/*******************************************************************************
- * CS 103 Twenty-One (Blackjack) PA
- * Name: Alishaa Khoslaa
- * USC email: khoslaa@usc.edu
- ******************************************************************************/
-
-//#includes
 #include <iostream>
 #include <cstdlib>
 
